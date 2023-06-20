@@ -1,1 +1,1 @@
-test cases demo
+test cases demo updated for jenkins jobs
